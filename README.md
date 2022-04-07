@@ -18,7 +18,7 @@ Repositório base: [Clique aqui](https://github.com/TiagoMerc/Criando-seu-jogo-n
 
 - Modificando o arquivo index e css
 
-- Foi incluído instruções executar o jogo
+- Foi incluído instruções para executar o jogo
 
 - Foi incluido referências na página  
 
