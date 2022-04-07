@@ -25,5 +25,5 @@ Repositório base: [Clique aqui](https://github.com/TiagoMerc/Criando-seu-jogo-n
 #### Prints:
 ![Print, Modificação index](/img/print.png)
 
-![Print, Criação das referências](/img/print1.png)
+![Print, Criação das referências](/img/printref.png)
 
