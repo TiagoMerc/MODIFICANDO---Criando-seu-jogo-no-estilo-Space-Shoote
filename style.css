@@ -3,9 +3,9 @@
     width: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;
-    padding: 0;
-    margin: 0;
+    align-items:flex-end;
+    padding: 0px;
+    margin-top: -100px;
     font-family: sans-serif;
     background-color: cornflowerblue;
 
@@ -16,6 +16,7 @@
     background-image: url(./img/space.png);
     height: 600px;
     width: 600px;
+    position: unset;
   }
   /* Instruções de jogo*/
 
@@ -66,3 +67,10 @@
     opacity: 0;
   }
 
+.informations {
+    color:black;
+    position: fixed;
+    top: 5px;
+    margin: 1px;
+
+}

@@ -1,4 +1,4 @@
-# Criando-seu-jogo-no-estilo-Space-Shooter
+# MODIFICANDO | jogo-no-estilo-Space-Shooter
 
 ### DESCRIÇÃO:
 
@@ -10,44 +10,10 @@ Front-End   - Intermediário
 
 **ESPECIALISTA:** Gabriela Pinheiro - Frontend Engineer
 ______________
-### Parte 1: 
+### Modificações:
 
-Referências: https://www.cleanpng.com/  
+Repositório base: [Clique aqui](https://github.com/TiagoMerc/Criando-seu-jogo-no-estilo-Space-Shooter.git).
 
-- Criação da estrutura do arquivo index, inserindo o background-imagem e o heroi
+#### Prints:
+![Print, Modificação index](/img/print.png)
 
-### Parte 2: 
-
-- Criando interação com JavaScript 
-
-### Parte 3: 
-
-- Criação das funções para descer e subir a nave
-
-### Parte 4: 
-
-- Criação da função tiro
-
-### Parte 5: 
-
-- Usando a função tiro para criar interação no jogo
-
-### Parte 6: 
-
-- Criação da função para criar inimigos alienigenas
-
-### Parte 7: 
-
-- Criação da função para movimentar inimigos alienigenas
-
-### Parte 8: 
-
-- Criação a função  para iniciar o jogo e Game Over. Atualizando o arquivo index para um jogo mais intuitivo.
-
-
-![Print, Criando seu jogo no estilo Space Shooter](/img/pritnTelaJogo.png)
-
-![Print2, Criando seu jogo no estilo Space Shooter](/img/PrntTela2.png)
-
-
-![Print3, Criando seu jogo no estilo Space Shooter](/img/PrintTela3.png)
