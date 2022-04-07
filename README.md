@@ -20,7 +20,7 @@ Repositório base: [Clique aqui](https://github.com/TiagoMerc/Criando-seu-jogo-n
 
 - Foi incluído instruções para executar o jogo
 
-- Foi incluido referências na página  
+- Foi incluído referências na página sobre o projeto 
 
 #### Prints:
 ![Print, Modificação index](/img/print.png)
