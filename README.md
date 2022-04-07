@@ -8,12 +8,22 @@ Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Jav
 
 Front-End   - Intermediário
 
-**ESPECIALISTA:** Gabriela Pinheiro - Frontend Engineer
+**ESPECIALISTA:** [Gabriela Pinheiro](https://github.com/SpruceGabriela) - Frontend Engineer
 ______________
-### Modificações:
+### Referência:
 
 Repositório base: [Clique aqui](https://github.com/TiagoMerc/Criando-seu-jogo-no-estilo-Space-Shooter.git).
 
+### Modificações:
+
+- Modificando o arquivo index e css
+
+- Foi incluído instruções executar o jogo
+
+- Foi incluido referências na página  
+
 #### Prints:
 ![Print, Modificação index](/img/print.png)
+
+![Print, Criação das referências](/img/print1.png)
 
